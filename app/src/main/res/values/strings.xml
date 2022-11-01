@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">recyleView</string>
+    <string-array name="makanan">
+        <item>Perfect Velvet</item>
+        <item>Tempo</item>
+        <item>Universe</item>
+        <item>Psycho</item>
+        <item>Love Shot</item>
+        <item>Like Water</item>
+        <item>Lotto</item>
+        <item>Killing</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 285.000</item>
+        <item>Rp. 300.000</item>
+        <item>Rp. 250.000</item>
+        <item>Rp. 185.000</item>
+    </string-array>
+</resources>
